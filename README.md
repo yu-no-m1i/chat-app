@@ -40,6 +40,7 @@
 - belongs_to :room
 - belongs_to :user
 
+
 ## messages テーブル
 
 | Column  | Type       | Options                        |
@@ -52,7 +53,6 @@
 
 - belongs_to :room
 - belongs_to :user
-
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
